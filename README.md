@@ -62,6 +62,6 @@ você instalou o packmol use o comando `pwd` e você precisará usar esse caminh
 
 Como alternativa pode-se adicionar um alias no arquivo .bashrc especificando o caminho do comando.
 
-`  alias packmol='~/Programs/packmol/./packmol`
+`  alias packmol='~/Programs/packmol/./packmol'`
 
 Agora tente fazer uma molécula de sítio unico, boa sorte!
