@@ -27,16 +27,16 @@ tipos de arquivos: xyz e pdb (Protein Data Bank). Para configurações basicas o
 que define a distância minima em Angstrons entre duas partículas.
 
 `# Configuração inicial para a uma caixa com 1000 moléculas de água.
-tolerance 2.0
-# Tipo de arquivo de input e output xyz
-filetype xyz
-# Nome do arquivo de output
-output waterout.xyz
-# 1000 moléculas de água serão postas dentro de uma caixa de lados 0. - 40.
-structure water.xyz
-number 1000 
-inside box 0. 0. 0. 40. 40. 40. 
-end structure
+    tolerance 2.0
+    # Tipo de arquivo de input e output xyz
+    filetype xyz
+    # Nome do arquivo de output
+    output waterout.xyz
+    # 1000 moléculas de água serão postas dentro de uma caixa de lados 0. - 40.
+    structure water.xyz
+    number 1000 
+    inside box 0. 0. 0. 40. 40. 40. 
+    end structure
 `
 Como complemento deste arquivo a topografia das moléculas de água precisam estar definidas no arquivo informado, neste caso _water.xyz_.
 
