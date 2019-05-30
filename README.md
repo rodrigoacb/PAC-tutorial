@@ -15,6 +15,7 @@ Para instala-lo basta descompactar e executar o comando make dentro de sua pasta
     ./configure
     make
 `
+
 _Obs: o nome da pasta do packmol mudará dependendo da versão ou do local de download, adapte o comando ao seu caso. Isso pode ser feito
 verificando o nome da pasta a partir do comando_ `ls`
 
@@ -44,7 +45,7 @@ que define a distância minima em Angstrons entre duas partículas.
     inside box 0. 0. 0. 40. 40. 40. 
     end structure
  `
-Como complemento deste arquivo a topografia das moléculas de água precisam estar definidas no arquivo informado, neste caso _water.xyz_
+Como complemento deste arquivo a topografia das moléculas de água precisam estar definidas no arquivo informado, neste caso _water.xyz_.
 
 `   # Define-se o número de átomos ou sítios presentes na molécula e suas coordenadas.
     3 
