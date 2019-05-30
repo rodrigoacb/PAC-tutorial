@@ -1,4 +1,4 @@
-# Tutorial de Packmol e LAMMPS
+# Tutorial de Packmol
 
 ## Packmol: Donwload e instalação
 
