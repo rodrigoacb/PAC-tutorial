@@ -26,7 +26,7 @@ O packmol é otimizado para gerar configurações iniciais a partir de topografi
 tipos de arquivos: xyz e pdb (Protein Data Bank). Para configurações basicas o parâmetro mais importante a ser definido é a tolerância
 que define a distância minima em Angstrons entre duas partículas.
 
-`# Configuração inicial para a uma caixa com 1000 moléculas de água.
+`   # Configuração inicial para a uma caixa com 1000 moléculas de água.
     tolerance 2.0
     # Tipo de arquivo de input e output xyz
     filetype xyz
