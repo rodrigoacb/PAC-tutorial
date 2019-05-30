@@ -10,9 +10,13 @@ executando o seguinte comando:
 Para instala-lo basta descompactar e executar o comando make dentro de sua pasta.
 
 `   tar -xvzf packmol.tar.gz
+
     cd packmol
+    
     chmod +x configure
+    
     ./configure
+    
     make
 `
 
@@ -47,7 +51,8 @@ que define a distância minima em Angstrons entre duas partículas.
  `
 Como complemento deste arquivo a topografia das moléculas de água precisam estar definidas no arquivo informado, neste caso _water.xyz_.
 
-`   # Define-se o número de átomos ou sítios presentes na molécula e suas coordenadas.
+`   
+    # Define-se o número de átomos ou sítios presentes na molécula e suas coordenadas.
     3 
     water
     H            9.625597       6.787278      12.673000 
