@@ -7,7 +7,7 @@ executando o seguinte comando:
 
 `wget https://github.com/leandromartinez98/packmol/archive/18.169.tar.gz`
 
-Para instala-lo basta descompactar e executar o comando make dentro de sua pasta.
+Para instala-lo basta descompactar e executar o comando make dentro de sua pasta **caso tenha baixado pelo wget substitua pelo nome do arquivo.**
 
 ```
 tar -xvzf packmol.tar.gz
